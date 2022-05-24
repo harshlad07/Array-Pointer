@@ -1,0 +1,2 @@
+Size of any array --> 
+	sizeof(array_name) / sizeof(array_name[0])
